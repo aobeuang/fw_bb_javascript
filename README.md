@@ -1,8 +1,8 @@
 # fw_bb_javascript
 Bot Farmerworld with JavaScript
 #################################################################################################
-// Farmerworld auto mine javascipt by ไข่เป็ด สีแดง https://www.facebook.com/ichikawa.mochiku/
-// ใช้คู่กับ ScriptAutoRunner
+Farmerworld auto mine javascipt by ไข่เป็ด สีแดง https://www.facebook.com/ichikawa.mochiku/
+ใช้คู่กับ ScriptAutoRunner
 // https://chrome.google.com/webstore/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm
 // ฟังชั่นการทำงานทั้งหมด
 // - auto login wax 
